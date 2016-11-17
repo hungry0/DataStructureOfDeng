@@ -5,7 +5,7 @@ Size:	Name:
 2.160  	avl/avl_macro.h
 3.928  	avl/avl_remove.h
 1.497  	avl/avl_test.h
-13.046  	avl/main.cpp
+13.046  avl/main.cpp
 9.011  	bintree/binnode.h
 3.920  	bintree/binnode_implementation.h
 2.578  	bintree/binnode_insert.h
@@ -33,7 +33,7 @@ Size:	Name:
 2.267  	bintree/binnode_travpreorder_r.h
 3.148  	bintree/binnode_zag.h
 3.148  	bintree/binnode_zig.h
-11.497  	bintree/bintree.h
+11.497  bintree/bintree.h
 5.072  	bintree/bintree_attach.h
 2.449  	bintree/bintree_implementation.h
 3.998  	bintree/bintree_insert.h
@@ -42,8 +42,8 @@ Size:	Name:
 1.808  	bintree/bintree_size.h
 1.510  	bintree/bintree_test.h
 2.866  	bintree/bintree_updateheight.h
-17.044  	bintree/main.cpp
-10.651  	bitmap/bitmap.h
+17.044  bintree/main.cpp
+10.651  bitmap/bitmap.h
 6.885  	bitmap/bitmap_o1_init.h
 5.142  	bitmap/bitmap_o1_init_set_only.h
 9.740  	bitmap/main_o1_init.cpp
